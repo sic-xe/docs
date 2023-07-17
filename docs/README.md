@@ -23,3 +23,12 @@ interest you, there is no mandatory reading order.
 1. [Example Programs Explained](chapters/examples.md)
 1. [Cheatsheet](chapters/cheatsheet.md)
 1. [ASCII Character Codes](chapters/ascii.md)
+
+## Project info
+
+The aim of the SIC/XE collection project is to gather as much documentation and
+other useful resources about the SIC system as possible, including SIC/XE-related
+projects, such as an example implementation of a SIC/XE assembler and simulator,
+and an FPGA implementation of SIC/XE.
+If you're interested in the project check out the
+[GitHub organization](https://github.com/sic-xe).
