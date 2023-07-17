@@ -5,11 +5,13 @@ interest you, there is no mandatory reading order.
 
 ## Chapters
 
+1. [Glossary](chapters/glossary.md)
 1. [About SIC](chapters/about.md)
 1. [SIC's Feature Set](chapters/sic.md)
     1. [Specifications](chapters/sic.md#specifications)
     1. [Registers](chapters/sic.md#registers)
-    1. [Addressing Modes](chapters/sic.md#addressing-modes)
+    1. [Instruction Format](chapters/sic.md#instruction-format)
+    1. [Instruction Set](chapters/sic.md#instruction-set)
 1. [SIC/XE's Feature Set](chapters/sicxe.md)
     1. [Specifications](chapters/sicxe.md#specifications)
     1. [Registers](chapters/sicxe.md#registers)
