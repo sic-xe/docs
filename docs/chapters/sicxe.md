@@ -1,7 +1,5 @@
 # SIC/XE's Feature Set
 
-**This chapter is a work in progress.**
-
 SIC/XE (SIC eXtended Edition) is an improved, but backwards-compatible version
 of SIC.
 Since most of the stuff is shared with SIC, this page lists just the differences
@@ -48,7 +46,9 @@ The first 3 registers are 24 bits in size, like other SIC registers, while the
 
 ### The `B` register
 
-TODO
+The `B` or *base* register is used in the base-relative addressing mode
+(explained later in this chapter), where the value of the register is summed
+with an offset and the result is used as the target address.
 
 ### The `S` and `T` registers
 
@@ -60,7 +60,12 @@ they are usually exclusively used for those.
 
 ### The `F` register
 
-TODO
+The `F` register is used in floating point arithmetic operations, where its
+value is modified based on the instruction and the result is then stored back
+into the register.
+The value in the register can also be normalized, using the `NORM` instruction
+and an integer from register `A` can be written as a float into the register
+using the `FLOAT` instruction.
 
 ## Instruction formats
 

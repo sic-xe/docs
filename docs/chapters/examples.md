@@ -20,6 +20,8 @@ If you think you understand what the program does, you can immediately skip to
 the explanation to see if you were correct, otherwise see the second section
 for a few hints.
 
+**This chapter is a work in progress.**
+
 ## Example 1
 
 ### Assembly
@@ -37,5 +39,3 @@ TODO
 ### Explanation
 
 TODO
-
-**This chapter is a work in progress.**

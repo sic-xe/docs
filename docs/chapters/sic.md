@@ -24,9 +24,9 @@ size (3 words).
 
 ### The `A` register
 
-The `A` register is used when doing arithmetic operations, where its value is
-modified (added to, subtracted from etc.) with the value from the address,
-specified in the instruction.
+The `A` register is used when doing integer arithmetic operations, where its
+value is modified (added to, subtracted from etc.) with the value from the
+address, specified in the instruction.
 The result is always stored back into register `A`.
 
 ### The `X` register
