@@ -13,14 +13,12 @@ specifics that might be relevant.
 The recommended approach to reading this chapter is to read the first section
 of each example and try to understand what the code does by yourself.
 With practice you can remember what each instruction does, but you can always
-look at the [Instruction Set](opcodes.md) or [Cheatsheet](cheatsheet.md)
+look at the [Instruction Set](instruction-set.md) or [Cheatsheet](cheatsheet.md)
 side-by-side with the example.
 
 If you think you understand what the program does, you can immediately skip to
 the explanation to see if you were correct, otherwise see the second section
 for a few hints.
-
-**This chapter is a work in progress.**
 
 ## Example 1
 
