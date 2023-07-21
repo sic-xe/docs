@@ -10,7 +10,7 @@ to not repeat itself too much.
 - 1 megabyte of memory (2<sup>20</sup> bytes), compared to SIC's 32 kilobytes.
 - 48-bit real numbers (floating points, "floats")
 
-Integers are represented quite uniformly in computers, with with floats, which
+Integers are represented quite uniformly in computers, but with floats, which
 have a changable accuracy, we have to know how they are stored.
 SIC/XE splits the 48 bits into 3 sections:
 
