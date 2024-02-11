@@ -9,3 +9,5 @@ documentation is written in Markdown, so there is no need to compile it.
 
 The documentation in this repository is licensed under the
 [CC-BY-SA-4.0](LICENSE) license.
+
+## thanks for your precious time here
